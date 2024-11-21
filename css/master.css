@@ -1,0 +1,49 @@
+.webLogo{
+    height: 85px;
+    width: 105px;
+    border-radius: 11px;
+    background: transparent;
+    margin-right: 25px;
+
+}
+
+.webButtomLogo{
+    height: 150px;
+    width: 150px;
+    border-radius: 11px;
+    background: transparent;
+    margin-right: 25px;
+    
+}
+
+.custom-block {
+    transition: all 0.3s ease-in-out;
+    background-color: #ffffff;
+}
+
+.custom-block:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.custom-block h5 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+}
+
+.custom-block-image {
+    border: 3px solid #ddd;
+    padding: 8px;
+    background-color: #f9f9f9;
+}
+
+.text-muted {
+    font-size: 1rem;
+    color: #666;
+}
+
+a:hover .text-muted {
+    color: #000;
+}
+
